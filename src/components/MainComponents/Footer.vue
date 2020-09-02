@@ -1,8 +1,9 @@
 <template>
   <footer>
     <address>
-      <h4>Địa chỉ: 236/3 Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Hồ Chí Minh</h4>
-      <p id="phone">Hotline: 05 646464 99</p>
+      <h4>Địa chỉ: 236/3 Hẽm 236 Nguyễn Thái Bình, Phường 12, Quận Tân Bình, Tp. Hồ Chí Minh</h4>
+      <p id="phone">Đặt món ngay: 05 646464 99</p>
+      <p id="phone">Hotline CSKH: 03 686806 11</p>
       <p id="email">
         Email:
         <a href="mailto:phumrvans@gmail.com">phumrvans@gmail.com</a>
