@@ -62,10 +62,10 @@
     <ul class="desktop">
       <li>
         <img
-          onclick="window.open('https://www.facebook.com/mrvansfood','_blank')"
+          onclick="window.open('https://www.facebook.com/comvanphongmrvans/','_blank')"
           src="@/assets/icons/facebook.png"
           alt
-          title="https://www.facebook.com/mrvansfood/"
+          title="https://www.facebook.com/comvanphongmrvans/"
         />
       </li>
       <li>
